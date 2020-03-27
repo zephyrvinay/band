@@ -5,6 +5,10 @@ img {
 .sidebar {
   width: 30%;
   float: left;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
 
 }
 
